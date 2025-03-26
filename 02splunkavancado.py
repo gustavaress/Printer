@@ -16,8 +16,8 @@ os.makedirs(diretorioPrint, exist_ok=True)
 
 # URL da página e credenciais
 url = "https://www.instagram.com/"
-usuario = "kurtyzin"
-senha = "1248163264Insta!"
+usuario = "k"
+senha = ""
 
 # Inicializa o navegador
 navegador = webdriver.Chrome(options=configs)
