@@ -10,7 +10,7 @@ os.system("cls")
 caminho_cache = r"C:\Users\Administrador\AppData\Local\Google\Chrome\User Data"
  
 configs = Options()
-configs.add_argument("--window-size=1920x1080")
+configs.add_argument("--start-maximized")
 # configs.add_argument("--headless")
  
 diretorioPrints = r"C:\Users\Administrador\Documents\Workspace\Trabalho\PrintadorFoda\Printscreens"
